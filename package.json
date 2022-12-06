@@ -1,0 +1,21 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "En este curso veremos mas sobre javascript con el curso de ecma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HarolStev"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "learn",
+    "javascript"
+  ],
+  "author": "Harol Gonzalez <harolgonza@outlook.es>",
+  "license": "MIT"
+}
