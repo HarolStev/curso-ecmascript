@@ -1,0 +1,57 @@
+C:\Users\harol>cd C:\Users\harol\OneDrive\1. Programación
+
+C:\Users\harol\OneDrive\1. Programación>mkdir curso-ecmascript
+
+C:\Users\harol\OneDrive\1. Programación>cd curso-ecmascript
+
+C:\Users\harol\OneDrive\1. Programación\curso-ecmascript>git init
+Initialized empty Git repository in C:/Users/harol/OneDrive/1. Programación/curso-ecmascript/.git/
+
+C:\Users\harol\OneDrive\1. Programación\curso-ecmascript>npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help init` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (curso-ecmascript)
+version: (1.0.0)
+description: En este curso veremos mas sobre javascript con el curso de ecma
+entry point: (index.js)
+test command:
+git repository: https://github.com/HarolStev
+keywords: javascript, ecmascript, learn javascript
+author: Harol Gonzalez <harolgonza@outlook.es>
+license: (ISC) MIT
+About to write to C:\Users\harol\OneDrive\1. Programación\curso-ecmascript\package.json:
+
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "En este curso veremos mas sobre javascript con el curso de ecma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HarolStev"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "learn",
+    "javascript"
+  ],
+  "author": "Harol Gonzalez <harolgonza@outlook.es>",
+  "license": "MIT"
+}
+
+
+Is this OK? (yes) yes
+
+C:\Users\harol\OneDrive\1. Programación\curso-ecmascript>code .

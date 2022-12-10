@@ -17,5 +17,6 @@
     "javascript"
   ],
   "author": "Harol Gonzalez <harolgonza@outlook.es>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
