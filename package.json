@@ -18,5 +18,8 @@
   ],
   "author": "Harol Gonzalez <harolgonza@outlook.es>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
